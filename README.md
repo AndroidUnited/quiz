@@ -1,1 +1,3 @@
-# quiz
+---
+permalink: /index.html
+---
